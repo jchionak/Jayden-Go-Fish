@@ -2,8 +2,8 @@
 The player for a game of go fish.
 """
 
-from go_fish.card import Card
-from go_fish.deck import Deck, NotEnoughCardsError
+from Jayden-Go-Fish.card import *
+from Jayden-Go-Fish.deck import *
 from time import sleep
 from random import randint
 
