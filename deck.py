@@ -3,7 +3,7 @@ An implementation of a deck of cards in Python
 """
 
 from random import randint
-from Jayden-Go-Fish.card import Card
+from card import Card
 
 
 class Deck:
