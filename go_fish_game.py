@@ -2,7 +2,7 @@
 A simple go fish game loop.
 """
 
-from Jayden-Go-Fish.player import *
+from player import *
 from time import sleep
 from random import randint
 

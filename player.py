@@ -2,8 +2,8 @@
 The player for a game of go fish.
 """
 
-from Jayden-Go-Fish.card import *
-from Jayden-Go-Fish.deck import *
+from card import *
+from deck import *
 from time import sleep
 from random import randint
 
